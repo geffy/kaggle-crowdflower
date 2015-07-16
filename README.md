@@ -1,4 +1,5 @@
-Kaggle ['Search Results Relevance'](https://www.kaggle.com/c/crowdflower-search-relevance) 2nd place solution
+Kaggle ['Search Results Relevance'](https://www.kaggle.com/c/crowdflower-search-relevance) 
+2nd place solution
 =======
 ### Mikhail Trofimov, Stanislav Semenov, Dmitry Altukhov
 
@@ -6,8 +7,9 @@ Gets score 0.71881 on private leaderboard
 
 How to reproduce submission
 =======
-Don't forget to check paths in ./cfg.py!
+Don't forget to check paths in `./cfg.py`!
 By default, you should place raw data in `./raw/`, create `./processed/` for temporal files and `./submit/` for submission file.
+
 After this, run
 ```
 python preprocessing_mikhail.py
