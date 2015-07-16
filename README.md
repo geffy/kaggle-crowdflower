@@ -1,5 +1,4 @@
-# Kaggle ['Search Results Relevance'](https://www.kaggle.com/c/crowdflower-search-relevance) 
-## 2nd place solution
+Kaggle ['Search Results Relevance'](https://www.kaggle.com/c/crowdflower-search-relevance)  2nd place solution
 =======
 ### Mikhail Trofimov, Stanislav Semenov, Dmitry Altukhov
 
